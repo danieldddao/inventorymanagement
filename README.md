@@ -3,6 +3,7 @@
 * Spring framework
 * Hibernate framework
 * AngularJS and JQuery
+* HTML and CSS
 * MySQL
 * Maven Architecture
 * JUnit and Cucumber for testing
